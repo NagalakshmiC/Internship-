@@ -1,0 +1,10 @@
+name="Nagalakshmi"
+college="SVECW"
+age="20"
+dream="to becom a Hard worker"
+print=("my details:")
+print=("name:",name)
+print=("age:",age)
+print=("college:", college)
+print=("dream:", dream)
+print=("I Completed task2 successfully:")
